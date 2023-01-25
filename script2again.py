@@ -5,3 +5,5 @@ print("Simple is better than complex")
 print("Unless explicitly silenced")
 
 #this is a good programming advice, never listen to your boss!!
+
+print("print statement has been added to script2")
